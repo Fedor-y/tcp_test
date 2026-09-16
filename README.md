@@ -1,2 +1,2 @@
 # tcp_test
-tcp lockale_host and tcp client. Maded to know how network is work
+there is basic TCP server and client.I wrote them to understand how the TCP protocol and the Internet work.
